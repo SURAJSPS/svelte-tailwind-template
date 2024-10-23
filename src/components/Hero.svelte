@@ -8,7 +8,7 @@
 <SectionWrapper>
 	<Header />
 	<div class="flex flex-col gap-10 flex-1 items-center justify-center p-10 md:pb-14">
-		<h2 class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl max-w-[1200px] mx-auto w-full text-center font-semibold">
+		<h2 class="text-5xl sm:text-4xl md:text-5xl lg:text-6xl max-w-[1200px] mx-auto w-full text-center font-semibold">
 			<span class="text-primary">Civil</span> Engineering<br />
 			<span class="text-neutral line-through">Is Complex</span><br />
 			Just Got <span class="text-secondary">Simpler</span>
