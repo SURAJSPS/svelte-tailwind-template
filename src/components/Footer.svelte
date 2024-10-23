@@ -2,7 +2,7 @@
 	<div class="max-w-[1200px] mx-auto w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-8 text-base">
 		<div class="flex flex-col gap-4 md:col-span-2">
 			<h1 class="font-semibold">RK<span class="text-indigo-400">Infratech</span></h1>
-			<p class="">©2024 Whoopers Whoops LTD. All rights reserved</p>
+			<p class="">©2024 All rights reserved</p>
 		</div>
 		<div class="flex flex-col gap-4">
 			<p class="font-bold poppins text-base sm:text-lg">Support</p>
