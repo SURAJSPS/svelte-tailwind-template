@@ -15,7 +15,7 @@
 {#if $openModal}
   <div class="fixed top-0 left-0 w-screen h-screen border-b bg-white z-50 flex flex-col gap-8 p-5 px-8 md:hidden">
     <div class="flex items-center justify-between gap-4 border-b pb-2">
-      <h1 class="font-semibold">Whoopers <span class="text-indeigo-400">Whoops</span></h1>
+      <h1 class="font-semibold">RK<span class="text-indeigo-400">Infratech</span></h1>
       <button on:click={() => $openModal = false} class="outline-none border-none">
         <i class="fa-solid fa-xmark text-2xl"></i>
         

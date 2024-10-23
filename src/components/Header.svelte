@@ -5,7 +5,7 @@
 <header class="flex flex-col relative z-20">
 	<div class="max-w-[1400px] mx-auto w-full flex justify-between items-center p-4 py-6">
 		<a href="/">
-			<h1 class=" font-semibold">Whoopers <span class="text-indigo-400">Whoops</span></h1>
+			<h1 class=" font-semibold">RK<span class="text-indigo-400">Infratech</span></h1>
 		</a>
 		<button on:click={() => ($openModal = true)} class=" md:hidden grid place-items-center">
 			<i class="fa-solid fa-bars"></i>

@@ -109,7 +109,7 @@
 		</button>
 		<div class="flex flex-col gap-10">
 			<p class="mx-auto text-large sm:text-xl md:text-2xl font-semibold">
-				Trusted By 1,349 Soldiers
+				Trusted By 1,349 Clients
 			</p>
 			<Stars/>
 		</div>
