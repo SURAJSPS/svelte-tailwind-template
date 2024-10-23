@@ -14,9 +14,8 @@
 			<a class="duration-200 hover:text-secondary cursor-pointer" href="#products">Services</a>
 			<a class="duration-200 hover:text-secondary cursor-pointer" href="#reviews">Testimonials</a>
 			<a class="duration-200 hover:text-secondary cursor-pointer" href="#faqs">FAQs</a>
-			<button class="specialBtn">
-				<p>Start Free Today</p>
-			</button>
+
 		</nav>
 	</div>
 </header>
+

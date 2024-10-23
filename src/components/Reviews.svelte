@@ -5,76 +5,40 @@
 	let lim = true;
 	const reviewsList = [
 		{
-			name: 'Mark Robinson',
+			name: 'Rajesh Patel',
 			review:
-				"Swoley Moley is more than just a fitness app; it's a lifestyle change. It's helped me develop healthy habits and make better choices about my diet and exercise. I'm incredibly grateful for this app and the positive impact it's had on my life.",
-			features: ['Focus on healthy habits', 'Nutritional guidance', 'Positive lifestyle impact']
+				"RKInfratech's expertise in structural design is unparalleled. Their innovative solutions helped us complete our high-rise project in Mumbai ahead of schedule and under budget. Their attention to detail and commitment to quality is commendable.",
+			features: ['Structural Design', 'Project Management', 'Cost-Effective Solutions']
 		},
 		{
-			name: 'Sarah Johnson',
+			name: 'Priya Sharma',
 			review:
-				"I've tried many fitness apps, but Swoley Moley stands out. The personalized workout plans and diet suggestions have been a game-changer for me. I've lost 20 pounds and feel more energetic than ever!",
-			features: ['Personalized workout plans', 'Diet suggestions', 'Progress tracking']
+				"Working with RKInfratech on our city's new transportation infrastructure was a game-changer. Their urban planning integration resulted in a more efficient and sustainable system for Bangalore. Their team's professionalism and technical knowledge are impressive.",
+			features: ['Transportation Infrastructure', 'Urban Planning', 'Sustainability']
 		},
 		{
-			name: 'Alex Chen',
+			name: 'Amit Verma',
 			review:
-				"As a busy professional, I struggled to find time for exercise. Swoley Moley's quick workout routines and meal prep ideas fit perfectly into my schedule. It's made staying healthy so much more manageable.",
-			features: ['Quick workout routines', 'Meal prep ideas', 'Time-efficient solutions']
+				"RKInfratech's water resource management solutions have significantly improved our community's water conservation efforts in Rajasthan. Their expertise in renewable energy integration is truly impressive and has set a new standard for sustainable development in our region.",
+			features: ['Water Resource Management', 'Renewable Energy', 'Community Impact']
 		},
 		{
-			name: 'Emily Rodriguez',
+			name: 'Neha Gupta',
 			review:
-				"The community features in Swoley Moley are fantastic. Connecting with other users, sharing progress, and participating in challenges keeps me motivated. It's like having a support group in my pocket!",
-			features: ['Social features', 'Progress sharing', 'Community challenges']
+				"The geotechnical analysis provided by RKInfratech was crucial for our coastal development project in Kerala. Their thorough approach ensured the stability and safety of our structures, even in challenging soil conditions. Their team's expertise is unmatched.",
+			features: ['Geotechnical Analysis', 'Coastal Development', 'Safety Assurance']
 		},
 		{
-			name: 'Mark Robinson',
+			name: 'Vikram Singh',
 			review:
-				"Swoley Moley is more than just a fitness app; it's a lifestyle change. It's helped me develop healthy habits and make better choices about my diet and exercise. I'm incredibly grateful for this app and the positive impact it's had on my life.",
-			features: ['Focus on healthy habits', 'Nutritional guidance', 'Positive lifestyle impact']
+				"RKInfratech's project management skills are exceptional. They coordinated multiple stakeholders effortlessly for our large-scale industrial complex in Gujarat. Their ability to foresee and mitigate potential issues saved us both time and money.",
+			features: ['Project Coordination', 'Risk Management', 'Industrial Construction']
 		},
 		{
-			name: 'Sarah Johnson',
+			name: 'Ananya Reddy',
 			review:
-				"I've tried many fitness apps, but Swoley Moley stands out. The personalized workout plans and diet suggestions have been a game-changer for me. I've lost 20 pounds and feel more energetic than ever!",
-			features: ['Personalized workout plans', 'Diet suggestions', 'Progress tracking']
-		},
-		{
-			name: 'Alex Chen',
-			review:
-				"As a busy professional, I struggled to find time for exercise. Swoley Moley's quick workout routines and meal prep ideas fit perfectly into my schedule. It's made staying healthy so much more manageable.",
-			features: ['Quick workout routines', 'Meal prep ideas', 'Time-efficient solutions']
-		},
-		{
-			name: 'Emily Rodriguez',
-			review:
-				"The community features in Swoley Moley are fantastic. Connecting with other users, sharing progress, and participating in challenges keeps me motivated. It's like having a support group in my pocket!",
-			features: ['Social features', 'Progress sharing', 'Community challenges']
-		},
-		{
-			name: 'Mark Robinson',
-			review:
-				"Swoley Moley is more than just a fitness app; it's a lifestyle change. It's helped me develop healthy habits and make better choices about my diet and exercise. I'm incredibly grateful for this app and the positive impact it's had on my life.",
-			features: ['Focus on healthy habits', 'Nutritional guidance', 'Positive lifestyle impact']
-		},
-		{
-			name: 'Sarah Johnson',
-			review:
-				"I've tried many fitness apps, but Swoley Moley stands out. The personalized workout plans and diet suggestions have been a game-changer for me. I've lost 20 pounds and feel more energetic than ever!",
-			features: ['Personalized workout plans', 'Diet suggestions', 'Progress tracking']
-		},
-		{
-			name: 'Alex Chen',
-			review:
-				"As a busy professional, I struggled to find time for exercise. Swoley Moley's quick workout routines and meal prep ideas fit perfectly into my schedule. It's made staying healthy so much more manageable.",
-			features: ['Quick workout routines', 'Meal prep ideas', 'Time-efficient solutions']
-		},
-		{
-			name: 'Alex Chen',
-			review:
-				"As a busy professional, I struggled to find time for exercise. Swoley Moley's quick workout routines and meal prep ideas fit perfectly into my schedule. It's made staying healthy so much more manageable.",
-			features: ['Quick workout routines', 'Meal prep ideas', 'Time-efficient solutions']
+				"As an architect, I've worked with many civil engineering firms, but RKInfratech stands out. Their collaborative approach and innovative solutions greatly enhanced our eco-friendly residential project in Hyderabad. They truly understand the importance of sustainable design.",
+			features: ['Collaborative Design', 'Eco-friendly Solutions', 'Residential Projects']
 		}
 	];
 </script>
