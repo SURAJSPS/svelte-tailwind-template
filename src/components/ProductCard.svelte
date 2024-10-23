@@ -1,4 +1,6 @@
 <script>
+	import CtAs from "./CTAs.svelte";
+
 	export let index;
 	export let productFeature;
 </script>
@@ -23,9 +25,7 @@
 				</div>
 			{/each}
 		</div>
-		<div class="flex itmes-center">
-			<button class="specialBtnDark ml-auto font-semibolds"> Try free today &rarr; </button>
-		</div>
+		<CtAs/>
 	</div>
 	<div
 		class={'flex flex-col dropShadow overflow-hidden rounded-b-lg ' +

@@ -1,35 +1,27 @@
 <script>
 	import SectionWrapper from './SectionWrapper.svelte';
 	const faqs = [
-		{
-			question: 'Is there a beginner-friendly mode in Swoley Moley?',
-			ans: 'Yes, Swoley Moley offers a beginner-friendly mode with easier exercises and lower intensity workouts, making it suitable for users at various fitness levels.'
-		},
-		{
-			question: 'Can I customize my workout plan in Swoley Moley?',
-			ans: 'Absolutely! Swoley Moley allows you to customize your workout plan based on your fitness goals, available equipment, and time constraints, ensuring a personalized fitness experience.'
-		},
-		{
-			question: 'Does Swoley Moley offer nutrition advice?',
-			ans: 'Yes, Swoley Moley provides comprehensive nutrition advice, including meal plans, recipes, and nutritional information to complement your workout routines and support your overall health goals.'
-		},
-		{
-			question: 'Is there a community feature in Swoley Moley?',
-			ans: 'Indeed! Swoley Moley has a vibrant community feature where you can connect with other users, share progress, participate in challenges, and get motivation from like-minded individuals on their fitness journeys.'
-		},
-		{
-			question: 'How often are new workouts added to Swoley Moley?',
-			ans: 'Swoley Moley regularly updates its workout library. New exercises and routines are typically added on a weekly basis, ensuring you always have fresh and exciting workouts to try.'
-		},
-		{
-			question: 'Can Swoley Moley track my progress over time?',
-			ans: 'Absolutely! Swoley Moley features comprehensive progress tracking, including weight, measurements, workout performance, and even progress photos, allowing you to visualize your fitness journey over time.'
-		},
-		{
-			question: 'Is Swoley Moley compatible with fitness trackers or smartwatches?',
-			ans: 'Yes, Swoley Moley integrates with a wide range of popular fitness trackers and smartwatches, allowing you to sync your activity data and get a more complete picture of your fitness efforts.'
-		}
-	];
+    {
+        question: 'What types of projects do you handle?',
+        ans: 'We handle a wide range of civil engineering projects, including residential, commercial, and infrastructure developments.'
+    },
+    {
+        question: 'Do you offer project management services?',
+        ans: 'Yes, we offer full project management services to ensure your project is completed on time and within budget.'
+    },
+    {
+        question: 'Can you help with environmental impact assessments?',
+        ans: 'Absolutely! We provide environmental impact assessments to ensure your project complies with all regulations.'
+    },
+    {
+        question: 'What is your approach to sustainability?',
+        ans: 'We prioritize sustainable practices in all our projects, from material selection to energy-efficient designs.'
+    },
+    {
+        question: 'How do you ensure quality control?',
+        ans: 'We have a rigorous quality control process that includes regular site inspections, material testing, and adherence to industry standards.'
+    }
+];
 </script>
 
 <SectionWrapper id="faqs">
@@ -38,10 +30,8 @@
 			<p class="opacity-60 text-base sm:text-lg md:text-xl text-center">
 				For all your questions qualms & queries
 			</p>
-			<h3
-				class="text-4xl sm:text-5xl md:text-6xl max-w-[1000px] mx-auto w-full font-semibold text-center"
-			>
-				Frequently <span class="text-indigo-400">Asked</span> Questions
+			<h3 class="text-4xl sm:text-5xl md:text-6xl max-w-[1000px] mx-auto w-full font-semibold text-center">
+				Frequently <span class="text-primary">Asked</span> Questions
 			</h3>
 		</div>
 		<div class="flex flex-col gap-8 sm:gap-10 md:gap-14 w-full">

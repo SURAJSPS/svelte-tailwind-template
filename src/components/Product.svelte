@@ -2,38 +2,37 @@
 	import ProductCard from './ProductCard.svelte';
 	import SectionWrapper from './SectionWrapper.svelte';
 	let productFeatures = [
-		{
-			featureList: [
-				'Personalized Workout',
-				'Exercise Explanation',
-				'Analytics',
-				'Progress Tracking'
-			],
-			description:
-				'Get a personalized workout plan based on your goals, fitness level, and available equipment.',
-			imgUrl: 'assets/selection.png'
-		},
-		{
-			featureList: [
-				'Exercise Explanation',
-				'Analytics',
-				'Progress Tracking',
-				'Personalized Workout'
-			],
-			description: 'Get a detailed explanation of each exercise with videos and pro tips.',
-			imgUrl: 'assets/training.png'
-		},
-		{
-			featureList: [
-				'Analytics',
-				'Progress Tracking',
-				'Personalized Workout',
-				'Exercise Explanation'
-			],
-			description: 'Track your workout progress and see how you improve over time.',
-			imgUrl: 'assets/goal.png'
-		}
-	];
+    {
+        featureList: [
+            'Structural Design',
+            'Project Management',
+            'Site Supervision',
+            'Quality Assurance'
+        ],
+        description: 'We provide comprehensive structural design services for all types of construction projects.',
+        imgUrl: 'assets/1.jpg'
+    },
+    {
+        featureList: [
+            'Geotechnical Analysis',
+            'Environmental Impact',
+            'Surveying',
+            'Material Testing'
+        ],
+        description: 'Our geotechnical analysis ensures the safety and stability of your construction site.',
+        imgUrl: 'assets/2.webp'
+    },
+    {
+        featureList: [
+            'Construction Management',
+            'Cost Estimation',
+            'Risk Assessment',
+            'Sustainability Consulting'
+        ],
+        description: 'We manage your construction project from start to finish, ensuring timely and cost-effective delivery.',
+        imgUrl: 'assets/3.webp'
+    }
+];
 </script>
 
 <SectionWrapper id="products">
@@ -43,9 +42,7 @@
 		>
 			<div class="flex flex-col gap-2">
 				<p class="opacity-60 text-base sm:text-lg md:text-xl text-center">
-					Start your lifetime
-					<span class="text-indigo-400">gym streak</span>
-					today
+					Start your lifetime <span class="text-primary">engineering journey</span> today
 				</p>
 				<h3
 					class="text-4xl sm:text-5xl md:text-6xl max-w-[1000px] mx-auto w-full font-semibold text-center"
