@@ -24,19 +24,27 @@
 
     const completedProjects = [
         {
-            name: "Central Park Renovation",
-            description: "Complete overhaul of the city's main park, including new facilities and landscaping.",
-            completionDate: "2023",
+            name: "Deoria Medical College",
+            description: "A large-scale project focused on implementing a state-of-the-art fire safety infrastructure at Deoria Medical College. This includes the installation of an advanced firefighting system featuring RLL hose connections, automated sprinkler systems, high-capacity fire pumps, and a 10,000-liter water storage tank. Additionally, a cutting-edge fire alert system 🚨 and an electric fire alarm system have been integrated for real-time monitoring and rapid emergency response. The project also includes the implementation of a chiller plant to support climate control and a water curtaining system for enhanced fire suppression, ensuring comprehensive protection and compliance with hospital safety standards.",
+            completionDate: "2021",
             image: "assets/completed-1.jpg"
         },
+
         {
-            name: "Harbor Front Development",
-            description: "A mixed-use waterfront development featuring residential, commercial, and recreational spaces.",
+            name: "Maharajganj Mahila Police Hostel",
+            description: "A modern mixed-use waterfront development integrating residential, commercial, and recreational spaces. The project includes the installation of an advanced firefighting system featuring RLL hose connections, fire brigade integration, automated sprinkler systems, and a 10,000-liter water storage tank to enhance fire safety and emergency preparedness.",
             completionDate: "2022",
             image: "assets/completed-2.jpg"
         },
         {
-            name: "Metro Line Extension",
+            name: "Basti Mahila Police Hostel",
+            description: "A vital infrastructure project extending the city's metro system by 15 kilometers, adding five new stations. Alongside the metro expansion, the project includes the implementation of a cutting-edge firefighting system, incorporating RLL hose connections, fire brigade connectivity, high-efficiency sprinkler systems, and a 10,000-liter water storage tank, ensuring superior fire protection and safety compliance.",
+            completionDate: "2021",
+            image: "assets/completed-3.jpg"
+        },
+ 
+        {
+            name: "Gomti Nagar railway station redevelopment ",
             description: "A 15-kilometer extension of the city's metro system, including 5 new stations.",
             completionDate: "2021",
             image: "assets/completed-3.jpg"
